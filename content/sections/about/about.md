@@ -1,14 +1,12 @@
 ---
-imageSrc: "../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg"
-imageAlt: "About Gatsby Theme Portfolio Minimal"
+imageSrc: "../../images/about-pic.jpg"
+imageAlt: "Picture at Giger's museum"
 ---
 
-Portfolio Minimal is a Gatsby Theme that creates outstanding one-pages portfolio within minutes!
+Born in 1998, I grew up in the midst of the digital rise. As a teenager I started building my first website and experimenting modding on video games I used to play.
 
-It has predefined sections for your bio, skills, projects, and contact details. If you are a writer on Medium, you can integrate your latest articles in a distinct section as well. While building the theme, I tried to keep the setup as simple as possible while keeping everything configurable if you like to.
+While I was in school, I learned development on my own and as a result I very quickly became involved in projects, personal, community and professional.
 
-Using theme composition, you can easily customize the CSS theme to your own preferences - e.g. change colors, fonts, etc.
+After that, I started to study computer science as a bachelor's degree at the University of Applied Science Western Switzerland. There, I had the opportunity to reinforce my self-taught knowledge and take an interest in other technologies.
 
-Last but not least, it has some cool features you can opt-in to: Dark Mode, Splash Screen, Cookie Banner, and more to find out :)
-
-Photo by <a href="https://unsplash.com/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>Charles Deluvio</u></a> on Unsplash
+As I was studying, I had the opportunity to work at Zakodium, a company dedicated to the development of tools for storing, processing, visualizing and exploiting scientific data and I also contributed to various open source projects.
