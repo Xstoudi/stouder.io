@@ -9,11 +9,13 @@ import {
   ProjectsSection,
   Seo,
 } from "gatsby-theme-portfolio-minimal";
+import Analytics from '../analytics';
 
 export default function IndexPage() {
   return (
     <>
       <Seo title="Xavier Stouder - Portfolio" />
+      <Analytics />
       <Page useSplashScreenAnimation>
         <HeroSection sectionId="hero" />
         {/*<ArticlesSection sectionId="articles" heading="Latest Articles" sources={['Blog']} />*/}
