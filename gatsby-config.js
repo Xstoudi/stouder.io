@@ -25,5 +25,6 @@ module.exports = {
         // }
       },
     },
-  ]
+  ],
+  pathPrefix: "/stouder.io"
 };
