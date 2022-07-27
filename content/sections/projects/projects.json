@@ -2,24 +2,6 @@
   "projects": [
     {
       "visible": true,
-      "category": "🕹️ GAME DEVELOPMENT",
-      "title": "Ekalia",
-      "description": "Ekalia is a french association that is developing and maintaining events welcoming several hundred players during a weekend on the game Minecraft. Fulfilling development services for various Twitch streamers and corporate entities on the behalf of Ekalia.",
-      "tags": ["Development", "Game development"],
-      "image": {
-        "src": "../../images/ekalia-logo.png",
-        "alt": "Ekalia logo",
-        "linkTo": "https://ekalia.fr"
-      },
-      "links": [
-        {
-          "type": "external",
-          "url": "https://ekalia.fr/"
-        }
-      ]
-    },
-    {
-      "visible": true,
       "category": "💻 DEVELOPMENT",
       "title": "ES-Community",
       "description": "ES-Community is a french developer community focused on the EcmaScript ecosystem that I co-founded back in 2016. We're strong of more than 500 members with various profiles.",
@@ -36,6 +18,24 @@
         {
           "type": "external",
           "url": "https://escommunity.dev/"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "💻 DEVELOPMENT",
+      "title": "Palisades",
+      "description": "Palisades is a small utility that allow you to organize your desktop icons mess.",
+      "tags": ["Development", "Desktop Development"],
+      "image": {
+        "src": "../../images/palisades-screenshot.png",
+        "alt": "Palisades screenshot",
+        "linkTo": "https://github.com/Xstoudi/Palisades"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/Xstoudi/Palisades"
         }
       ]
     }
