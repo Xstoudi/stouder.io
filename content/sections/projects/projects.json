@@ -38,6 +38,24 @@
           "url": "https://github.com/Xstoudi/Palisades"
         }
       ]
+    },
+    {
+      "visible": true,
+      "category": "💻 DEVELOPMENT",
+      "title": "ssh-winnie",
+      "description": "Winnie is a simple SSH honeypot that allow you to monitor and track SSH connections.",
+      "tags": ["Development", "Security", "Dataviz"],
+      "image": {
+        "src": "../../images/winnie-icon.png",
+        "alt": "Winnie the pooh icon",
+        "linkTo": "https://github.com/Xstoudi/ssh-winnie"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/Xstoudi/ssh-winnie"
+        }
+      ]
     }
   ],
   "button": {
