@@ -24,6 +24,7 @@ export default function IndexPage() {
         <ProjectsSection sectionId="projects" heading="Projects and communities" />
         <ContactSection sectionId="github" heading="Get in touch!" />
       </Page>
+      <a rel="me" href="https://tooting.ch/@xavier">Mastodon</a>
     </>
   );
 }
