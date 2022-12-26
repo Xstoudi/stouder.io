@@ -1,7 +1,6 @@
 import React from "react";
 import {
   AboutSection,
-  ArticlesSection,
   ContactSection,
   HeroSection,
   InterestsSection,
@@ -24,7 +23,7 @@ export default function IndexPage() {
         <ProjectsSection sectionId="projects" heading="Projects and communities" />
         <ContactSection sectionId="github" heading="Get in touch!" />
       </Page>
-      <a rel="me" style="display: none" href="https://tooting.ch/@xavier">Mastodon</a>
+      <a rel="me" style={{ display: 'none' }} href="https://tooting.ch/@xavier">Mastodon</a>
     </>
   );
 }
