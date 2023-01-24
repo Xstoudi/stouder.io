@@ -13,4 +13,4 @@ jobs:
           access-token: ${{ secrets.ACCESS_TOKEN }}
           deploy-branch: deploy
           gatsby-args: --prefix-paths
-          node-version: 16.x
+          node-version: 18
