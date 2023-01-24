@@ -12,11 +12,11 @@
   "subtitle": {
     "prefix": "I build ",
     "highlight": "things",
-    "suffix": " on the web, on the blockchain, and on cubic-games."
+    "suffix": " on the web and on cubic-games."
   },
   "description": "IT Student, Full Stack developer. Based in Switzerland.",
   "socialProfiles": {
-    "from": ["Twitter", "LinkedIn", "Github", "Mail"],
+    "from": ["Mastodon", "LinkedIn", "Github", "Mail"],
     "showIcons": true
   }
 }

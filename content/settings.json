@@ -10,11 +10,25 @@
     "bio": "IT Student, Full Stack developer. Based in Switzerland.",
     "social": {
       "behance": "",
+      "buymeacoffee": "",
+      "devto": "",
+      "discord": "",
+      "dribble": "",
       "github": "https://github.com/Xstoudi",
-      "twitter": "https://twitter.com/Xstoudi",
-      "medium": "",
+      "gitlab": "",
+      "goodreads": "",
+      "hashnode": "",
+      "instagram": "",
       "linkedin": "https://www.linkedin.com/in/xavier-stouder/",
-      "mail": "mailto:xavier+portfolio@stouder.io"
+      "mail": "mailto:xavier+portfolio@stouder.io",
+      "mastodon": "https://tooting.ch/@xavier",
+      "medium": "",
+      "twitter": "",
+      "twitch": "",
+      "patreon": "",
+      "reddit": "",
+      "stackoverflow": "",
+      "youtube": ""
     }
   },
   "siteConfiguration": {

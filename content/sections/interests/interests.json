@@ -8,13 +8,6 @@
       }
     },
     {
-      "label": "Blockchain technologies",
-      "image": {
-        "src": "../../images/icons/rocket.png",
-        "alt": ""
-      }
-    },
-    {
       "label": "Game development",
       "image": {
         "src": "../../images/icons/video_game.png",
