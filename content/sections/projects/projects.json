@@ -4,7 +4,7 @@
       "visible": true,
       "category": "💻 DEVELOPMENT",
       "title": "ES-Community",
-      "description": "ES-Community is a french developer community focused on the EcmaScript ecosystem that I co-founded back in 2016. We're strong of more than 500 members with various profiles.",
+      "description": "ES-Community is a french developer community focused on the EcmaScript ecosystem that I co-founded back in 2016. We're strong of more than 600 members with various profiles.",
       "tags": ["Development"],
       "image": {
         "src": "../../images/esc-logo.png",
@@ -18,6 +18,28 @@
         {
           "type": "external",
           "url": "https://escommunity.dev/"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "💻 DEVELOPMENT",
+      "title": "Hydra",
+      "description": "Hydra is a web application whose objective is to retrieve, aggregate and display Swiss hydrological data.",
+      "tags": ["Development", "Dataviz"],
+      "image": {
+        "src": "../../images/hydra-logo.png",
+        "alt": "Hydra logo",
+        "linkTo": "https://hydra.stouder.io/"
+      },
+      "links": [
+        {
+          "type": "external",
+          "url": "https://escommunity.dev/"
+        },
+        {
+          "type": "github",
+          "url": "https://github.com/Xstoudi/hydra"
         }
       ]
     },
