@@ -8,7 +8,8 @@
       "tags": ["Development"],
       "image": {
         "src": "../../images/esc-logo.png",
-        "alt": "ES-Community logo"
+        "alt": "ES-Community logo",
+        "objectFit": "contain"
       },
       "links": [
         {
@@ -30,7 +31,8 @@
       "image": {
         "src": "../../images/hydra-logo.png",
         "alt": "Hydra logo",
-        "linkTo": "https://hydra.stouder.io/"
+        "linkTo": "https://hydra.stouder.io/",
+        "objectFit": "contain"
       },
       "links": [
         {
@@ -52,7 +54,8 @@
       "image": {
         "src": "../../images/palisades-screenshot.png",
         "alt": "Palisades screenshot",
-        "linkTo": "https://github.com/Xstoudi/Palisades"
+        "linkTo": "https://github.com/Xstoudi/Palisades",
+        "objectFit": "contain"
       },
       "links": [
         {
@@ -70,7 +73,8 @@
       "image": {
         "src": "../../images/winnie-logo.png",
         "alt": "Winnie the pooh icon",
-        "linkTo": "https://github.com/Xstoudi/ssh-winnie"
+        "linkTo": "https://github.com/Xstoudi/ssh-winnie",
+        "objectFit": "contain"
       },
       "links": [
         {
