@@ -12,10 +12,11 @@
     "node": ">=18.0.0"
   },
   "dependencies": {
-    "gatsby": "^5",
-    "gatsby-theme-portfolio-minimal": "4.5.0",
-    "react": "^18",
-    "react-dom": "^18"
+    "gatsby": "^5.9.0",
+    "gatsby-theme-portfolio-minimal": "^4.5.0",
+    "gatsby-transformer-inline-svg": "^1.2.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   },
   "author": "Konstantin Münster <mail@konstantin.digital>",
   "license": "0BSD",
