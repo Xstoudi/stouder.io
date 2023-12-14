@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://stouder.io/sitemap-index.xml
+Host: https://stouder.io
